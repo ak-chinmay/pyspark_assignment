@@ -4,7 +4,6 @@ By Chinmay Arankalle (ak.chinmay@gmail.com)
 
 ### PySpark Solution
 
-Thank you for giving me the opportunity to take the test, below is the description of the solution.
 In this solution I have created the PySpark based workflow which reads json file,<br/> performs transformations and 
 displays it on STDOUT.
 
